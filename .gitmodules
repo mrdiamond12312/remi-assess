@@ -1,0 +1,6 @@
+[submodule "remi-assess-frontend"]
+	path = remi-assess-frontend
+	url = https://github.com/mrdiamond12312/remi-assess-frontend
+[submodule "remi-assess-backend"]
+	path = remi-assess-backend
+	url = https://github.com/mrdiamond12312/remi-assess-backend
