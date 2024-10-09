@@ -43,7 +43,7 @@ services:
       TZ: 'GMT'
       PGTZ: 'GMT'
     ports:
-      - "5432:5432"
+      - "5433:5432"
     # May give error on windows
     networks:
       - api-network
