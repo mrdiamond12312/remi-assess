@@ -5,6 +5,10 @@ This is a repository for Remitano Assessment Test attempt for Front-end Develope
  - remi-assess-backend: Back-end Apis using NestJS with PostgreSQL
 
 ## How to run:
+First, clone this repository:
+```
+git clone --recurse-submodules https://github.com/mrdiamond12312/remi-assess
+```
 To run this project, build a docker image using this command:
 ```
 make up
