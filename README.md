@@ -1,6 +1,6 @@
 # Funny Movies - Remitano Assessment Test
 
-This is a repository for Remitano Assessment Test, which includes 2 submodule repos:
+This is a repository for Remitano Assessment Test attempt for Front-end Developer Position, which includes 2 submodule repos:
  - remi-assess-frontend: Front-end UI using Vite-ReactJS
  - remi-assess-backend: Back-end Apis using NestJS with PostgreSQL
 
